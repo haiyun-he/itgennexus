@@ -30,7 +30,7 @@ defaults:
 
 hero:
   # image: /assets/img/guangzhou-hero2.jpg
-  image: /assets/img/banner_gpt.png
+  image: /assets/img/banner_gpt.jpeg
   title: "ITGenNexus: Bridging Information Theory and Generative AI"
   subtitle: "ISIT 2026 Workshop · Guangzhou, China · July 3, 2026"
 
