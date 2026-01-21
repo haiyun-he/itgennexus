@@ -84,7 +84,7 @@ permalink: /speakers/
 
   <div class="card speaker-card">
     <div class="avatar">
-      <img src="/assets/img/people/yi-ma.jpg" alt="Yi Ma" />
+      <img src="{{ '/assets/img/people/yi-ma.jpg' | relative_url }}" alt="Yi Ma" />
     </div>
     <h3>Yi Ma</h3>
     <p class="affil">University of Hong Kong</p>
@@ -95,7 +95,7 @@ permalink: /speakers/
   
   <div class="card speaker-card">
     <div class="avatar">
-      <img src="/assets/img/people/dan-roy.jpg" alt="Dan Roy" />
+      <img src="{{ '/assets/img/people/dan-roy.jpg' | relative_url }}" alt="Dan Roy" />
     </div>
     <h3>Dan Roy</h3>
     <p class="affil">University of Toronto</p>
@@ -106,7 +106,7 @@ permalink: /speakers/
 
   <div class="card speaker-card">
     <div class="avatar">
-      <img src="/assets/img/people/gintare-dziugaite.jpg" alt="Gintare Karolina Dziugaite" />
+      <img src="{{ '/assets/img/people/gintare-dziugaite.jpg' | relative_url }}" alt="Gintare Karolina Dziugaite" />
     </div>
     <h3>Gintare Karolina Dziugaite</h3>
     <p class="affil">Google Brain</p>
@@ -117,7 +117,7 @@ permalink: /speakers/
 
   <div class="card speaker-card">
     <div class="avatar">
-      <img src="/assets/img/people/taiji-suzuki.jpg" alt="Taiji Suzuki" />
+      <img src="{{ '/assets/img/people/taiji-suzuki.jpg' | relative_url }}" alt="Taiji Suzuki" />
     </div>
     <h3>Taiji Suzuki</h3>
     <p class="affil">University of Tokyo &amp; RIKEN AIP</p>
@@ -130,7 +130,7 @@ permalink: /speakers/
 
   <div class="card speaker-card">
     <div class="avatar">
-      <img src="/assets/img/people/junyang-lin.jpg" alt="Junyang Lin" />
+      <img src="{{ '/assets/img/people/junyang-lin.jpg' | relative_url }}" alt="Junyang Lin" />
     </div>
     <h3>Junyang Lin</h3>
     <p class="affil">Qwen Team, Alibaba</p>
