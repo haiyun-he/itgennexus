@@ -1,0 +1,41 @@
+title: "ITGenNexus @ ISIT 2026"
+description: #"Bridging Information Theory and Generative AI"
+markdown: kramdown
+
+# Optional: if your repo is NOT username.github.io, uncomment and set:
+# baseurl: "/REPO_NAME"
+# url: "https://YOUR_GITHUB_USERNAME.github.io"
+baseurl: "/itgennexus"
+url: "https://haiyun-he.github.io"
+
+nav:
+  - title: Home
+    url: /
+  - title: Speakers
+    url: /speakers
+  - title: Schedule
+    url: /schedule
+  - title: Call for Contributions
+    url: /cfp
+  # - title: Organizers
+  #   url: /organizers
+  - title: FAQ
+    url: /faq
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+hero:
+  # image: /assets/img/guangzhou-hero2.jpg
+  image: /assets/img/banner_gpt.png
+  title: "ITGenNexus: Bridging Information Theory and Generative AI"
+  subtitle: "ISIT 2026 Workshop · Guangzhou, China · July 3, 2026"
+
+# Image attribution (recommended for CC BY-SA images)
+hero_credit:
+  # text: "Photo: Nissangeniss (CC BY-SA 4.0) via Wikimedia Commons"
+  text: "Photo design credit to Chat-GPT"
+url: "https://haiyun-he.github.io"
