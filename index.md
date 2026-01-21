@@ -45,7 +45,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Yingbin Liang -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/yingbin-liang.jpg' | relative_url }}" alt="Yingbin Liang"/>
+      <img src="{{ '/assets/img/people/yingbin-liang.jpg' | relative_url }}" alt="Yingbin Liang" loading="lazy" decoding="async" />
       <span class="avatar-fallback">YL</span>
     </div>
     <div>
@@ -58,7 +58,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Jiantao Jiao -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/jiantao-jiao.jpg' | relative_url }}" alt="Jiantao Jiao"/>
+      <img src="{{ '/assets/img/people/jiantao-jiao Large.jpg' | relative_url }}" alt="Jiantao Jiao" loading="lazy" decoding="async" />
       <span class="avatar-fallback">JJ</span>
     </div>
     <div>
@@ -71,7 +71,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Yuheng Bu -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/yuheng-bu.jpg' | relative_url }}" alt="Yuheng Bu"/>
+      <img src="{{ '/assets/img/people/yuheng-bu.jpg' | relative_url }}" alt="Yuheng Bu" loading="lazy" decoding="async" />
       <span class="avatar-fallback">YB</span>
     </div>
     <div>
@@ -84,7 +84,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Haiyun He -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/haiyun-he.jpg' | relative_url }}" alt="Haiyun He"/>
+      <img src="{{ '/assets/img/people/haiyun-he Large.jpg' | relative_url }}" alt="Haiyun He" loading="lazy" decoding="async" />
       <span class="avatar-fallback">HH</span>
     </div>
     <div>
@@ -97,7 +97,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Ziqiao Wang -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/ziqiao-wang.jpg' | relative_url }}" alt="Ziqiao Wang"/>
+      <img src="{{ '/assets/img/people/ziqiao-wang.jpg' | relative_url }}" alt="Ziqiao Wang" loading="lazy" decoding="async" />
       <span class="avatar-fallback">ZW</span>
     </div>
     <div>
@@ -110,7 +110,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Peng Wang -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/peng-wang.jpg' | relative_url }}" alt="Peng Wang"/>
+      <img src="{{ '/assets/img/people/peng-wang.jpg' | relative_url }}" alt="Peng Wang" loading="lazy" decoding="async" />
       <span class="avatar-fallback">PW</span>
     </div>
     <div>
