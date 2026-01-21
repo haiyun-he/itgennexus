@@ -71,7 +71,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Yuheng Bu -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/yuheng-bu.jpg' | relative_url }}" alt="Yuheng Bu" loading="lazy" decoding="async" />
+      <img src="{{ '/assets/img/people/yuheng-bu Large.jpg' | relative_url }}" alt="Yuheng Bu" loading="lazy" decoding="async" />
       <span class="avatar-fallback">YB</span>
     </div>
     <div>
