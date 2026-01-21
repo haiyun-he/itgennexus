@@ -97,7 +97,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Ziqiao Wang -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/ziqiao-wang.jpg' | relative_url }}" alt="Ziqiao Wang" loading="lazy" decoding="async" />
+      <img src="{{ '/assets/img/people/ziqiao-wang Large.jpg' | relative_url }}" alt="Ziqiao Wang" loading="lazy" decoding="async" />
       <span class="avatar-fallback">ZW</span>
     </div>
     <div>
