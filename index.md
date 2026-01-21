@@ -110,7 +110,7 @@ The workshop will bring together researchers from information theory, machine le
   <!-- Peng Wang -->
   <div class="card">
     <div class="avatar">
-      <img src="{{ '/assets/img/people/peng-wang.jpg' | relative_url }}" alt="Peng Wang" loading="lazy" decoding="async" />
+      <img src="{{ '/assets/img/people/peng-wang Large.jpg' | relative_url }}" alt="Peng Wang" loading="lazy" decoding="async" />
       <span class="avatar-fallback">PW</span>
     </div>
     <div>
