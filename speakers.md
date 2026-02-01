@@ -109,7 +109,7 @@ permalink: /speakers/
       <img src="{{ '/assets/img/people/gintare-dziugaite Large.jpg' | relative_url }}" alt="Gintare Karolina Dziugaite" loading="lazy" decoding="async" />
     </div>
     <h3>Gintare Karolina Dziugaite</h3>
-    <p class="affil">Google Brain</p>
+    <p class="affil">Google DeepMind</p>
     <div class="meta">
       <span class="badge">Invited Speaker</span>
     </div>
@@ -133,7 +133,7 @@ permalink: /speakers/
       <img src="{{ '/assets/img/people/junyang-lin.jpg' | relative_url }}" alt="Junyang Lin" loading="lazy" decoding="async" />
     </div>
     <h3>Junyang Lin</h3>
-    <p class="affil">Qwen Team, Alibaba</p>
+    <p class="affil">Qwen Team</p>
     <div class="meta">
       <span class="badge">Invited Speaker</span>
     </div>
