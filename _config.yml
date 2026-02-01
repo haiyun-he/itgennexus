@@ -15,7 +15,7 @@ nav:
     url: /speakers
   - title: Schedule
     url: /schedule
-  - title: Call for Contributions
+  - title: Call for Papers
     url: /cfp
   # - title: Organizers
   #   url: /organizers
@@ -37,5 +37,5 @@ hero:
 # Image attribution (recommended for CC BY-SA images)
 hero_credit:
   # text: "Photo: Nissangeniss (CC BY-SA 4.0) via Wikimedia Commons"
-  text: "Photo design credit to Chat-GPT"
+  text: "Photo design credit to ChatGPT"
 # url: "https://haiyun-he.github.io"

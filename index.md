@@ -15,8 +15,9 @@ permalink: /
   <h2>Important dates</h2>
   <ul>
     <li><strong>Workshop date:</strong> Jul. 3, 2026 (Guangzhou, China)</li>
-    <li><strong>Submission deadline:</strong> Apr. 7, 2026, AoE</li>
-    <li><strong>Acceptance notification:</strong> Jun. 7, 2026, AoE</li>
+    <li><strong>Submission deadline:</strong> <span style="color: red; font-weight: bold;">Apr. 7, 2026, AoE</span> </li>
+    <li><strong>Acceptance notification:</strong> Apr. 21, 2026, AoE</li>
+    <li><strong>Final manuscripts:</strong> Apr. 28, 2026, AoE</li>
   </ul>
 </div>
 
@@ -29,8 +30,8 @@ Recent progress has demonstrated the power of information-theoretic tools in ana
 The workshop will bring together researchers from information theory, machine learning, and AI through invited talks by leading experts from academia and industry, complemented by contributed presentations on both theoretical foundations and practical applications. By creating a shared forum for these communities, ITGenNexus aims to equip AI researchers with principled information-theoretic perspectives, while enabling traditional ISIT participants to engage deeply with modern generative models and their open challenges. Ultimately, the workshop seeks to catalyze new collaborations and advance the theoretical and practical understanding of generative AI.
 
 ## Key information
-- **Location:** Guangzhou, China  
-- **Format:** Talks + contributed presentations + poster & panel session
+- **Paper Format**: Same as ISIT main conference (non-archival)
+- **Workshop Format:** Invited Talks + Contributed Presentations + Poster & Panel Session
 
 <!-- ## Quick links
 - **Speakers:** confirmed / interested invitees
@@ -51,7 +52,7 @@ The workshop will bring together researchers from information theory, machine le
     <div>
       <h3>Yingbin Liang</h3>
       <p class="affil">The Ohio State University</p>
-      <div class="meta"><span class="badge">Workshop Co-Chair</span></div>
+      <!-- <div class="meta"><span class="badge">Workshop Co-Chair</span></div> -->
     </div>
   </div>
 
@@ -64,7 +65,7 @@ The workshop will bring together researchers from information theory, machine le
     <div>
       <h3>Jiantao Jiao</h3>
       <p class="affil">University of California, Berkeley</p>
-      <div class="meta"><span class="badge">Workshop Co-Chair</span></div>
+      <!-- <div class="meta"><span class="badge">Workshop Co-Chair</span></div> -->
     </div>
   </div>
 
@@ -77,7 +78,7 @@ The workshop will bring together researchers from information theory, machine le
     <div>
       <h3>Yuheng Bu</h3>
       <p class="affil">University of California, Santa Barbara</p>
-      <div class="meta"><span class="badge">Program Co-Chair</span></div>
+      <!-- <div class="meta"><span class="badge">Program Co-Chair</span></div> -->
     </div>
   </div>
 
@@ -90,7 +91,7 @@ The workshop will bring together researchers from information theory, machine le
     <div>
       <h3>Haiyun He</h3>
       <p class="affil">The Hong Kong University of Science and Technology (Guangzhou)</p>
-      <div class="meta"><span class="badge">Program Co-Chair</span></div>
+      <!-- <div class="meta"><span class="badge">Program Co-Chair</span></div> -->
     </div>
   </div>
 
@@ -103,7 +104,7 @@ The workshop will bring together researchers from information theory, machine le
     <div>
       <h3>Ziqiao Wang</h3>
       <p class="affil">Tongji University</p>
-      <div class="meta"><span class="badge">Local Arrangements Co-Chair</span></div>
+      <!-- <div class="meta"><span class="badge">Local Arrangements Co-Chair</span></div> -->
     </div>
   </div>
 
@@ -116,7 +117,7 @@ The workshop will bring together researchers from information theory, machine le
     <div>
       <h3>Peng Wang</h3>
       <p class="affil">University of Macau</p>
-      <div class="meta"><span class="badge">Local Arrangements Co-Chair</span></div>
+      <!-- <div class="meta"><span class="badge">Local Arrangements Co-Chair</span></div> -->
     </div>
   </div>
 
