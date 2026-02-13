@@ -3,7 +3,7 @@ title: Speakers
 permalink: /speakers/
 ---
 
-## Invited speakers
+## Provisionally Confirmed Speakers
 
 <!-- <div class="grid">
 
