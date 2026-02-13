@@ -9,7 +9,7 @@ We welcome **up to 5-page workshop papers** on topics connecting Information The
 ## Submission & Important Dates
 
 - **Submission deadline:** <span style="color:red; font-weight:bold;">Apr. 7, 2026, AoE</span>
-- **Submission portal:** [EDAS](https://edas.info/XXXX)
+- **Submission portal:** [EDAS](https://edas.info/N34669)
 
 
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2em 0;">
