@@ -154,4 +154,4 @@ Leveraging GenAI as a tool or catalyst for advancing information-theoretic resea
 - Accepted papers will be presented as **contributed oral and/or poster presentations**.
 - The workshop is **non-archival**.
 
-(When you’re ready, send me the exact wording + deadlines you want on the site, and I’ll lock it in.)
+<!-- (When you’re ready, send me the exact wording + deadlines you want on the site, and I’ll lock it in.) -->
