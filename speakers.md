@@ -3,7 +3,7 @@ title: Speakers
 permalink: /speakers/
 ---
 
-## Provisionally Confirmed Speakers
+## Invited Speakers
 
 <!-- <div class="grid">
 
@@ -93,7 +93,7 @@ permalink: /speakers/
     </div>
   </div>
   
-  <div class="card speaker-card">
+  <!-- <div class="card speaker-card">
     <div class="avatar">
       <img src="{{ '/assets/img/people/dan-roy.jpg' | relative_url }}" alt="Dan Roy" loading="lazy" decoding="async" />
     </div>
@@ -113,7 +113,7 @@ permalink: /speakers/
     <div class="meta">
       <span class="badge">Invited Speaker</span>
     </div>
-  </div>
+  </div> -->
 
   <div class="card speaker-card">
     <div class="avatar">
@@ -126,9 +126,30 @@ permalink: /speakers/
     </div>
   </div>
 
-
+  <div class="card speaker-card">
+    <div class="avatar">
+      <img src="{{ '/assets/img/people/yuxiang-wang.jpg' | relative_url }}" alt="Yu-xiang Wang" />
+    </div>
+    <h3>Yu-xiang Wang</h3>
+    <p class="affil">UC San Diego</p>
+    <div class="meta">
+      <span class="badge">Invited Speaker</span>
+    </div>
+  </div>
 
   <div class="card speaker-card">
+    <div class="avatar">
+      <img src="{{ '/assets/img/people/furong-huang.jpeg' | relative_url }}" alt="Furong Huang" />
+    </div>
+    <h3>Furong Huang</h3>
+    <p class="affil">University of Maryland</p>
+    <div class="meta">
+      <span class="badge">Invited Speaker</span>
+    </div>
+  </div>
+
+
+  <!-- <div class="card speaker-card">
     <div class="avatar">
       <img src="{{ '/assets/img/people/junyang-lin.jpg' | relative_url }}" alt="Junyang Lin" loading="lazy" decoding="async" />
     </div>
@@ -137,6 +158,6 @@ permalink: /speakers/
     <div class="meta">
       <span class="badge">Invited Speaker</span>
     </div>
-  </div>
+  </div> -->
 
 </div>

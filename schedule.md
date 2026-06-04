@@ -100,59 +100,76 @@ We will publish the final schedule once speaker availability is confirmed. All t
 <div class="timeline">
 
   <div class="tl-item tl-meta">
-    <div class="tl-time">8:30–9:00</div>
+    <div class="tl-time">14:00–14:05</div>
     <div class="tl-card">
-      <div class="tl-title">Registration, Coffee, Breakfast, and Welcome</div>
+      <div class="tl-title">Opening Remarks</div>
     </div>
   </div>
 
   <div class="tl-item tl-talk">
-    <div class="tl-time">9:00–9:40</div>
+    <div class="tl-time">14:05–14:35</div>
     <div class="tl-card">
-      <div class="tl-title">Invited Talk I</div>
-      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · Affiliation: <span class="tl-muted">TBA</span></div>
+      <div class="tl-title">Invited Talk 1</div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">Yi Ma</span> · Affiliation: <span class="tl-muted">The Hong Kong University</span></div>
     </div>
   </div>
 
   <div class="tl-item tl-talk">
-    <div class="tl-time">9:40–10:20</div>
+    <div class="tl-time">14:35–15:05</div>
     <div class="tl-card">
-      <div class="tl-title">Invited Talk II</div>
-      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · Affiliation: <span class="tl-muted">TBA</span></div>
+      <div class="tl-title">Invited Talk 2</div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">Taiji Suzuki</span> · Affiliation: <span class="tl-muted">The University of Tokyo</span></div>
+    </div>
+  </div>
+
+  <div class="tl-item tl-talk">
+    <div class="tl-time">15:05–15:20</div>
+    <div class="tl-card">
+      <div class="tl-title">Contributed Talk 1</div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · Title: <span class="tl-muted">TBA</span></div>
     </div>
   </div>
 
   <div class="tl-item tl-break">
-    <div class="tl-time">10:20–10:40</div>
+    <div class="tl-time">15:20–15:40</div>
     <div class="tl-card">
       <div class="tl-title">Coffee Break</div>
     </div>
   </div>
 
   <div class="tl-item tl-talk">
-    <div class="tl-time">10:40–11:20</div>
+    <div class="tl-time">15:40–16:15</div>
     <div class="tl-card">
-      <div class="tl-title">Invited Talk III</div>
-      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · Affiliation: <span class="tl-muted">TBA</span></div>
+      <div class="tl-title">Invited Talk 3</div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">Yu-xiang Wang</span> · Affiliation: <span class="tl-muted">UC San Diego</span></div>
     </div>
   </div>
 
   <div class="tl-item tl-contrib">
-    <div class="tl-time">11:20–12:00</div>
+    <div class="tl-time">16:15–16:50</div>
     <div class="tl-card">
-      <div class="tl-title">Contributed Presentations I &amp; II</div>
-      <div class="tl-sub">Short talks selected from submissions.</div>
+      <div class="tl-title">Invited Talk 4</div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">Furong Huang</span> · Affiliation: <span class="tl-muted">University of Maryland</span></div>
     </div>
   </div>
 
-  <div class="tl-item tl-meal">
+  <div class="tl-item tl-talk">
+    <div class="tl-time">16:50–17:05</div>
+    <div class="tl-card">
+      <div class="tl-title">Contributed Talk 2</div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · 
+      Title: <span class="tl-muted">TBA</span></div>
+    </div>
+  </div>
+
+  <!-- <div class="tl-item tl-meal">
     <div class="tl-time">12:00–13:30</div>
     <div class="tl-card">
       <div class="tl-title">Lunch + Poster Session 1</div>
     </div>
-  </div>
+  </div> -->
 
-  <div class="tl-divider"><span>Afternoon</span></div>
+  <!-- <div class="tl-divider"><span>Afternoon</span></div>
 
   <div class="tl-item tl-talk">
     <div class="tl-time">13:30–14:10</div>
@@ -191,12 +208,12 @@ We will publish the final schedule once speaker availability is confirmed. All t
       <div class="tl-title">Contributed Presentation III</div>
       <div class="tl-sub">Short talk selected from submissions.</div>
     </div>
-  </div>
+  </div> -->
 
   <div class="tl-item tl-panel">
-    <div class="tl-time">15:55–17:30</div>
+    <div class="tl-time">17:05–18:00</div>
     <div class="tl-card">
-      <div class="tl-title">Panel Discussion + Poster Session 2 + Awards + Closing Remarks</div>
+      <div class="tl-title">Panel Discussion + Closing Remarks</div>
     </div>
   </div>
 
