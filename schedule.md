@@ -122,7 +122,7 @@ We will publish the final schedule once speaker availability is confirmed. All t
     </div>
   </div>
 
-  <div class="tl-item tl-talk">
+  <div class="tl-item tl-contrib">
     <div class="tl-time">15:05–15:20</div>
     <div class="tl-card">
       <div class="tl-title">Contributed Talk 1</div>
@@ -145,7 +145,7 @@ We will publish the final schedule once speaker availability is confirmed. All t
     </div>
   </div>
 
-  <div class="tl-item tl-contrib">
+  <div class="tl-item tl-talk">
     <div class="tl-time">16:15–16:50</div>
     <div class="tl-card">
       <div class="tl-title">Invited Talk 4</div>
@@ -153,7 +153,7 @@ We will publish the final schedule once speaker availability is confirmed. All t
     </div>
   </div>
 
-  <div class="tl-item tl-talk">
+  <div class="tl-item tl-contrib">
     <div class="tl-time">16:50–17:05</div>
     <div class="tl-card">
       <div class="tl-title">Contributed Talk 2</div>
