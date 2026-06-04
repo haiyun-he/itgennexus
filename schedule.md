@@ -110,7 +110,7 @@ We will publish the final schedule once speaker availability is confirmed. All t
     <div class="tl-time">14:05–14:35</div>
     <div class="tl-card">
       <div class="tl-title">Invited Talk 1</div>
-      <div class="tl-sub">Speaker: <span class="tl-muted">Yi Ma</span> · Affiliation: <span class="tl-muted">The Hong Kong University</span></div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">Yi Ma</span> · Affiliation: <span class="tl-muted">University of Hong Kong</span></div>
     </div>
   </div>
 
