@@ -5,7 +5,7 @@ permalink: /schedule/
 
 ## Tentative schedule
 
-We will publish the final schedule once speaker availability is confirmed. All times are local.
+All times are local.
 
 <!-- <div class="schedule-grid">
 
@@ -107,7 +107,7 @@ We will publish the final schedule once speaker availability is confirmed. All t
   </div>
 
   <div class="tl-item tl-talk">
-    <div class="tl-time">14:05–14:35</div>
+    <div class="tl-time">14:05–14:40</div>
     <div class="tl-card">
       <div class="tl-title">Invited Talk 1</div>
       <div class="tl-sub">Speaker: <span class="tl-muted">Yi Ma</span> · Affiliation: <span class="tl-muted">University of Hong Kong</span></div>
@@ -115,23 +115,15 @@ We will publish the final schedule once speaker availability is confirmed. All t
   </div>
 
   <div class="tl-item tl-talk">
-    <div class="tl-time">14:35–15:05</div>
+    <div class="tl-time">14:40–15:15</div>
     <div class="tl-card">
       <div class="tl-title">Invited Talk 2</div>
       <div class="tl-sub">Speaker: <span class="tl-muted">Taiji Suzuki</span> · Affiliation: <span class="tl-muted">The University of Tokyo</span></div>
     </div>
   </div>
 
-  <div class="tl-item tl-contrib">
-    <div class="tl-time">15:05–15:20</div>
-    <div class="tl-card">
-      <div class="tl-title">Contributed Talk 1</div>
-      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · Title: <span class="tl-muted">TBA</span></div>
-    </div>
-  </div>
-
   <div class="tl-item tl-break">
-    <div class="tl-time">15:20–15:40</div>
+    <div class="tl-time">15:15–15:40</div>
     <div class="tl-card">
       <div class="tl-title">Coffee Break</div>
     </div>
@@ -153,8 +145,17 @@ We will publish the final schedule once speaker availability is confirmed. All t
     </div>
   </div>
 
+
   <div class="tl-item tl-contrib">
     <div class="tl-time">16:50–17:05</div>
+    <div class="tl-card">
+      <div class="tl-title">Contributed Talk 1</div>
+      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · Title: <span class="tl-muted">TBA</span></div>
+    </div>
+  </div>
+
+  <div class="tl-item tl-contrib">
+    <div class="tl-time">17:05–17:20</div>
     <div class="tl-card">
       <div class="tl-title">Contributed Talk 2</div>
       <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · 
@@ -211,7 +212,7 @@ We will publish the final schedule once speaker availability is confirmed. All t
   </div> -->
 
   <div class="tl-item tl-panel">
-    <div class="tl-time">17:05–18:00</div>
+    <div class="tl-time">17:20–18:00</div>
     <div class="tl-card">
       <div class="tl-title">Panel Discussion + Closing Remarks</div>
     </div>
