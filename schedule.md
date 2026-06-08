@@ -150,7 +150,7 @@ All times are local.
     <div class="tl-time">16:50–17:05</div>
     <div class="tl-card">
       <div class="tl-title">Contributed Talk 1</div>
-      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · Title: <span class="tl-muted">TBA</span></div>
+      <div class="tl-sub">Speaker:  Ziv Aharoni, Henry D Pfister<span class="tl-muted">TBA</span> · Title: <span class="tl-muted">Conservation Laws for Diffusion Models</span></div>
     </div>
   </div>
 
@@ -158,7 +158,7 @@ All times are local.
     <div class="tl-time">17:05–17:20</div>
     <div class="tl-card">
       <div class="tl-title">Contributed Talk 2</div>
-      <div class="tl-sub">Speaker: <span class="tl-muted">TBA</span> · 
+      <div class="tl-sub">Speaker: Alon Kipnis, Adam Vinestock <span class="tl-muted">Log-Likelihood Tests for Distinguishing Generative Models Under Relative Entropy Constraints</span> · 
       Title: <span class="tl-muted">TBA</span></div>
     </div>
   </div>
