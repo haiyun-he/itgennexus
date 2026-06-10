@@ -109,7 +109,9 @@ All times are local.
   <div class="tl-item tl-talk">
     <div class="tl-time">14:05–14:40</div>
     <div class="tl-card">
-      <div class="tl-title">Invited Talk 1</div>
+      <div class="tl-title">Invited Talk 1: 
+        <em><span style="color:#1f4e79; font-style:italic; font-weight:700;">Pursuing the Nature of Intelligence</span></em>
+      </div>
       <div class="tl-sub">Speaker: <span class="tl-muted">Yi Ma</span> · Affiliation: <span class="tl-muted">University of Hong Kong</span></div>
     </div>
   </div>
@@ -117,7 +119,9 @@ All times are local.
   <div class="tl-item tl-talk">
     <div class="tl-time">14:40–15:15</div>
     <div class="tl-card">
-      <div class="tl-title">Invited Talk 2</div>
+      <div class="tl-title">Invited Talk 2:
+        <em><span style="color:#1f4e79; font-style:italic; font-weight:700;">Theory and methodology of diffusion models with science applications: Continuous and Discrete variables</span></em>
+      </div>
       <div class="tl-sub">Speaker: <span class="tl-muted">Taiji Suzuki</span> · Affiliation: <span class="tl-muted">The University of Tokyo</span></div>
     </div>
   </div>
@@ -132,7 +136,9 @@ All times are local.
   <div class="tl-item tl-talk">
     <div class="tl-time">15:40–16:15</div>
     <div class="tl-card">
-      <div class="tl-title">Invited Talk 3</div>
+      <div class="tl-title">Invited Talk 3: 
+        <em><span style="color:#1f4e79; font-style:italic; font-weight:700;">Theoretical Insights on Training Instability in Deep Learning</span></em>
+      </div>
       <div class="tl-sub">Speaker: <span class="tl-muted">Yu-xiang Wang</span> · Affiliation: <span class="tl-muted">UC San Diego</span></div>
     </div>
   </div>
@@ -140,7 +146,9 @@ All times are local.
   <div class="tl-item tl-talk">
     <div class="tl-time">16:15–16:50</div>
     <div class="tl-card">
-      <div class="tl-title">Invited Talk 4</div>
+      <div class="tl-title">Invited Talk 4:
+        <em><span style="color:#1f4e79; font-style:italic; font-weight:700;">Reasoning as Control: Adaptive Test-Time Compute for Planning Agents</span></em>
+      </div>
       <div class="tl-sub">Speaker: <span class="tl-muted">Furong Huang</span> · Affiliation: <span class="tl-muted">University of Maryland</span></div>
     </div>
   </div>
@@ -149,17 +157,20 @@ All times are local.
   <div class="tl-item tl-contrib">
     <div class="tl-time">16:50–17:05</div>
     <div class="tl-card">
-      <div class="tl-title">Contributed Talk 1</div>
-      <div class="tl-sub">Speaker:  Ziv Aharoni, Henry D Pfister<span class="tl-muted">TBA</span> · Title: <span class="tl-muted">Conservation Laws for Diffusion Models</span></div>
+      <div class="tl-title">Contributed Talk 1: 
+        <em><span style="color:#00796b; font-style:italic; font-weight:700;">Conservation Laws for Diffusion Models</span></em>
+      </div>
+      <div class="tl-sub">Authors:  Ziv Aharoni, Henry D Pfister </div>
     </div>
   </div>
 
   <div class="tl-item tl-contrib">
     <div class="tl-time">17:05–17:20</div>
     <div class="tl-card">
-      <div class="tl-title">Contributed Talk 2</div>
-      <div class="tl-sub">Speaker: Alon Kipnis, Adam Vinestock <span class="tl-muted">Log-Likelihood Tests for Distinguishing Generative Models Under Relative Entropy Constraints</span> · 
-      Title: <span class="tl-muted">TBA</span></div>
+      <div class="tl-title">Contributed Talk 2:
+        <em><span style="color:#00796b; font-style:italic; font-weight:700;">Log-Likelihood Tests for Distinguishing Generative Models Under Relative Entropy</span></em>
+      </div>
+      <div class="tl-sub">Authors: Alon Kipnis, Adam Vinestock </div>
     </div>
   </div>
 
@@ -214,7 +225,7 @@ All times are local.
   <div class="tl-item tl-panel">
     <div class="tl-time">17:20–18:00</div>
     <div class="tl-card">
-      <div class="tl-title">Panel Discussion + Closing Remarks</div>
+      <div class="tl-title">Panel Discussion <em><span style="color:#8b1e3f;font-style:italic; font-weight:700;">"From Information to Intelligence: What Can These Communities Learn from Each Other?"</span></em> + Closing Remarks</div>
     </div>
   </div>
 
